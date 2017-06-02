@@ -1,16 +1,22 @@
 <!DOCTYPE html>
 <html>
+	<head>
+	<meta charset="utf-8">
+	<title>sleekLoad 2</title>
+	<link href='http://fonts.googleapis.com/css?family=Quicksand:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/sleek.css">
+</head>
 <body>
 	<div id="player"></div>
 	<div id="overlay"></div>
 
 	<div id="title">Niik's Underdone RPG</div>
 	<div id="subtitle">
-		В данный момент вы играете на <span id="gamemode">gamemode</span> на карте <span id="map">map</span>
+		You're playing on <span id="gamemode">gamemode</span>
 	</div>
 
 	<div id="status-container">
-		<div id="status">Загружаюсь...</div>
+		<div id="status">Loading...</div>
 		<div id="loading">
 			<div id="loading-progress"></div>
 		</div>
@@ -18,7 +24,7 @@
 	</div>
 
 	<div id="music">
-		В данный момент играет песня под названием <div id="music-name"></div>
+		Music playing: <div id="music-name"></div>
 	</div>
 
 	<script src="js/lib/jquery-2.1.1.min.js"></script>
