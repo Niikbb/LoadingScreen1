@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Niik' Minigames [RUS]";
+var l_serverName = "Underdone RPG | Custom | ALPHA |";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -90,6 +90,11 @@ var l_musicPlaylist = [
 	{youtube: "JS7S2dVPjXU", name: "Mattafix - Big City Life"},
 	{youtube: "KlujizeNNQM", name: "Snoop Dogg - Smoke Weed Everyday"},
 	{youtube: "JU9TouRnO84", name: "Rick Ross - Hustlin'"},
+	{youtube: "UbQgXeY_zi4", name: "Caravan Palace - Lone Digger"},
+	{youtube: "r_9Kf0D5BTs", name: "Twenty One Pilots - Heavydirtysoul"},
+	{youtube: "SNE2oCZH_4k", name: "M.O.O.N. - Hydrogen"},
+	{youtube: "AVblOqZBlJw", name: "M.O.O.N. - Crystals"},
+	{youtube: "8wXRvvGr8Ug", name: "M.O.O.N - Paris"},
 	{youtube: "WwoCsaJ5w4A", name: "DJ Striden – Level One"}
 ];
 
@@ -98,25 +103,23 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 35;
+var l_musicVolume = 15;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Удачной вам игры!",
-"Спасибо за то, что вы с нами!",
-"В данный момент грузятся аддоны, подождите..."
+"Loading Addons, please wait..."
 ];
 
 /*Random message order?*/
-var l_messagesRandom = true;
+var l_messagesRandom = false;
 
 /*Delay between message changes
 in milliseconds*/
-var l_messagesDelay = 5000;
+var l_messagesDelay = 5000000000000;
 
 /*Messages fade time
 in milliseconds*/
-var l_messagesFade = 1000;
+var l_messagesFade = 10000000000000;
