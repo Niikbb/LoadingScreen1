@@ -4,7 +4,6 @@
  / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
  \__ \ |  __/  __/   <| |___| (_) | (_| | (_| |
  |___/_|\___|\___|_|\_\______\___/ \__,_|\__,_|
-    version 2.04
 */
 
 /*URL for the server logo
@@ -13,7 +12,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Underdone RPG | Custom | ALPHA |";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
