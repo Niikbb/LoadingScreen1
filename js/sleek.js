@@ -140,8 +140,8 @@ function loadYoutube() {
 
 function onYouTubeIframeAPIReady() {
 	youtubePlayer = new YT.Player('player', {
-	  height: '390',
-	  width: '640',
+	  height: '480',
+	  width: '720',
 	  events: {
 	    'onReady': onPlayerReady,
 	    'onStateChange': onPlayerStateChange
