@@ -49,22 +49,22 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"20180209200606-1_1_orig.jpg",
-	"20180211191242-1_orig.jpg",
-	"20180211201733-1_orig.jpg",
-	"20180217203058-1_orig.jpg",
-	"20180215181215-1_orig.jpg",
-	"gm-bigcity0013_orig.jpg",
-	"gm-bigcity0018-2_orig.jpg",
-	"gm-bigcity0039_orig.jpg",
-	"gm-bigcity0041_1_orig.jpg",
-	"gm-bigcity0141_orig.jpg",
-	"gm-bigcity0148_orig.jpg",
-	"gm-redrock0005_orig.jpg",
-	"gm-redrock0152_orig.jpg",
-	"gm-redrock0153_orig.jpg",
-	"gm-redrock0154_orig.jpg",
-	"gm-spoon0000_orig.jpg"
+	"backgrounds/images/1.jpg",
+	"backgrounds/images/2.jpg",
+	"backgrounds/images/3.jpg",
+	"backgrounds/images/4.jpg",
+	"backgrounds/images/5.jpg",
+	"backgrounds/images/6.jpg",
+	"backgrounds/images/7.jpg",
+	"backgrounds/images/8.jpg",
+	"backgrounds/images/9.jpg",
+	"backgrounds/images/10.jpg",
+	"backgrounds/images/11.jpg",
+	"backgrounds/images/12.jpg",
+	"backgrounds/images/13.jpg",
+	"backgrounds/images/14.jpg",
+	"backgrounds/images/15.jpg",
+	"backgrounds/images/16.jpg"
 ];
 
 /*Random background images order?*/
