@@ -49,10 +49,22 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg",
-	"backgrounds/images/maxresdefault.jpg"
+	"20180209200606-1_1_orig.jpg",
+	"20180211191242-1_orig.jpg",
+	"20180211201733-1_orig.jpg",
+	"20180217203058-1_orig.jpg",
+	"20180215181215-1_orig.jpg",
+	"gm-bigcity0013_orig.jpg",
+	"gm-bigcity0018-2_orig.jpg",
+	"gm-bigcity0039_orig.jpg",
+	"gm-bigcity0041_1_orig.jpg",
+	"gm-bigcity0141_orig.jpg",
+	"gm-bigcity0148_orig.jpg",
+	"gm-redrock0005_orig.jpg",
+	"gm-redrock0152_orig.jpg",
+	"gm-redrock0153_orig.jpg",
+	"gm-redrock0154_orig.jpg",
+	"gm-spoon0000_orig.jpg"
 ];
 
 /*Random background images order?*/
@@ -70,7 +82,7 @@ var l_bgImageFadeVelocity = 2000;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 25;
+var l_bgDarkening = 10;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
@@ -109,7 +121,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Loading Addons, please wait..."
+"Идет загрузка аддонов..."
 ];
 
 /*Random message order?*/
